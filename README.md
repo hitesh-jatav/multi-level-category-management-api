@@ -42,7 +42,9 @@ npm i
 Then paste the following content into .env:
 
 PORT=5000
+
 MONGO_URI=mongodb://localhost:27017/category-api
+
 JWT_SECRET=your_jwt_secret
 
 ### Step 4: Run the Project
